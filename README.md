@@ -18,9 +18,6 @@ Tech that I've used at least once
 #### Infra
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira Software&logoColor=white"/></a>
 
-#### Portpolio
-[Portpolio 바로가기](https://2106.notion.site/76aea69029984702b744c9d890624b49)
-
 ## Solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=busanbukgu)](https://solved.ac/busanbukgu)
 
