@@ -18,7 +18,4 @@ Tech that I've used at least once
 #### Infra
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira Software&logoColor=white"/></a>
 
-## Solved.ac
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=busanbukgu)](https://solved.ac/busanbukgu)
-
 📭 contact me : <a href="mailto:qres3408@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=qres3408@gmail.com"/></a>
